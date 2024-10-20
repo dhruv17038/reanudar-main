@@ -5,7 +5,7 @@ const { locale, t } = useI18n()
 const route = useRoute()
 const localePath = useLocalePath()
 const HREF = `https://cvfy.xyz${route.path}`
-// const GITHUB = 'https://github.com/'
+const GITHUB = 'https://github.com/dhruv17038/reanudar-main'
 
 // const navLinks = [
 //   { name: 'Home', to: '/' },
